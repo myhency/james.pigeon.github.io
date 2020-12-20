@@ -1,8 +1,8 @@
 nav:
-  - title: "소개"
+  - title: "기능"
     section: services
 
-  - title: "기능"
+  - title: "사용법"
     section: portfolio
     
   - title: "라이선스"
@@ -13,6 +13,3 @@ nav:
 
   - title: "Contact"
     section: contact
-
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
