@@ -36,17 +36,17 @@ timeline:
       - title: "베타버전 오픈"
         year: "2020 Dec"
         desc: "베타테스터를 모집합니다. 충분한 테스트를 거쳐 제품으로 탄생하는 단계입니다."
-        image: https://xd.adobe.com/ideas/wp-content/uploads/2020/11/what_is_beta_testing-600x500.png
+        image: 
         alt: 
       - title: "정식버전 기능 개발"
         year: "2021-2022"
         desc: "베타테스트에서 나온 요청사항을 바탕으로 더욱더 강력한 기능들을 추가합니다."
-        image: https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-471748714_185571.jpg
+        image: 
         alt: 
       - title: "자동매매 기능 개발"
         year: "2022-2023"
         desc: "알람받을 시간도 부족하다. 바쁜 직장인들을 위해 비둘기가 자동으로 매매 해드리겠습니다."
-        image: https://www.picpedia.org/chalkboard/images/stock-investing.jpg
+        image: 
         alt: 
     end: "Be Part <br> of Our <br> Story!"
 
