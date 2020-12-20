@@ -9,15 +9,15 @@ services:
     text: ""
     section: services
     list:
-      - title: "실시간 알람"
-        desc: "텔레그램 알람 등록"
+      - title: "텔레그램 알람 등록"
+        desc: "검색식으로 검색된 종목을 실시간알람을 받을 수 있습니다"
         icon: fab fa-telegram #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "관심종목"
+        desc: "검색된 종목을 관심종목으로 등록합니다"
+        icon: fab fa-gratipay       
+      - title: "조건식별 설정"
+        desc: "조건식별로 설정을 달리하여 알람을 받을 수 있습니다"
+        icon: fas fa-chart-line
 
 portfolio:
     title: "Portfolio"
