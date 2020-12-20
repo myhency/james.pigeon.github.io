@@ -1,11 +1,11 @@
 nav:
-  - title: "Services"
+  - title: "소개"
     section: services
 
-  - title: "Portfolio"
+  - title: "기능"
     section: portfolio
     
-  - title: "About"
+  - title: "라이선스"
     section: timeline
 
   - title: "Team"
