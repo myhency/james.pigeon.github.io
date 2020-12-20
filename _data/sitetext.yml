@@ -20,8 +20,8 @@ services:
         icon: fas fa-chart-line
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "사용법"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
     
