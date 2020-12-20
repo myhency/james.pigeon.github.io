@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: 비둘기 설정하기
+subtitle: 라이선스 키와 텔레그램 토큰 설정
+image: https://github.com/myhency/myImages/blob/master/stock/pigeon_settings.png?raw=true
+alt: 비둘기 설정
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: 비둘기 설정하기
+  subtitle: 발급받은 라이선스 키와 텔레그램 토큰을 입력하세요.
+  thumbnail: https://github.com/myhency/myImages/blob/master/stock/pigeon_settings.png?raw=true
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+발급받은 라이선스 키를 입력하세요. BotFather를 통해 발급받은 토큰을 입력하세요. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- 라이선스 키 문의는 블로그에 남겨주세요
