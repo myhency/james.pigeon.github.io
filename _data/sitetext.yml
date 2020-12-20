@@ -23,7 +23,7 @@ portfolio:
     title: "사용법"
     text: ""
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
     
 
 timeline:
