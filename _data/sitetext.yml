@@ -1,5 +1,9 @@
 header:
+<<<<<<< HEAD
     title: 내가 작성한 검색식으로
+=======
+    title: 비둘기 Beta v0.5
+>>>>>>> parent of a513fb2... Update sitetext.yml
     text: 실시간으로 종목 알람을!!
     button: Tell Me More
     buttonlink: "#services"
