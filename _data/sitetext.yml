@@ -27,34 +27,27 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "로드맵" 
+    text: "비둘기의 개발 방향입니다"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "베타버전 오픈"
+        year: "2020 Dec"
+        desc: "베타테스터를 모집합니다. 충분한 테스트를 거쳐 제품으로 탄생하는 단계입니다."
+        image: https://xd.adobe.com/ideas/wp-content/uploads/2020/11/what_is_beta_testing-600x500.png
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "정식버전 기능 개발"
+        year: "2021-2022"
+        desc: "베타테스트에서 나온 요청사항을 바탕으로 더욱더 강력한 기능들을 추가합니다."
+        image: https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-471748714_185571.jpg
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "자동매매 기능 개발"
+        year: "2022-2023"
+        desc: "알람받을 시간도 부족하다. 바쁜 직장인들을 위해 비둘기가 자동으로 매매 해드리겠습니다."
+        image: https://www.picpedia.org/chalkboard/images/stock-investing.jpg
         alt: 
-        # you can enforce the aligment
-        align: right
     end: "Be Part <br> of Our <br> Story!"
 
 about:

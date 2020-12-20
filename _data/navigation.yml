@@ -5,7 +5,7 @@ nav:
   - title: "사용법"
     section: portfolio
     
-  - title: "라이선스"
+  - title: "로드맵"
     section: timeline
 
   - title: "Team"
@@ -13,3 +13,4 @@ nav:
 
   - title: "Contact"
     section: contact
+
